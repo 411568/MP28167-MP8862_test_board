@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "MP8862GQ")(type "KiCad")(uri "C:/Users/User/Documents/Temporary_documents/MP28167_8862_test_board/KiCAD_project/symbols_footprints/MP8862GQ.pretty")(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "C:/Users/User/Documents/Temporary_documents/MP28167_8862_test_board/KiCAD_project/symbols_footprints/v2/footprints.pretty")(options "")(descr ""))
+)

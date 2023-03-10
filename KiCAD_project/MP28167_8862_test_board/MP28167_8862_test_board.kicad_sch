@@ -2770,7 +2770,7 @@
     (property "Value" "MP28167GQ-A-Z" (id 1) (at 151.13 196.85 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Footprint" "QFN-16_MP28167_MNP" (id 2) (at 127 190.754 0)
+    (property "Footprint" "footprints:MP28167GQ-A-Z" (id 2) (at 127 190.754 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 106.68 196.85 0)
@@ -3828,7 +3828,7 @@
       (reference "U1") (unit 1) (value "AP63203WU") (footprint "Package_TO_SOT_SMD:TSOT-23-6")
     )
     (path "/82d40548-c1ae-451b-bea2-e6eb9c8d37b8"
-      (reference "U2") (unit 1) (value "MP28167GQ-A-Z") (footprint "QFN-16_MP28167_MNP")
+      (reference "U2") (unit 1) (value "MP28167GQ-A-Z") (footprint "footprints:MP28167GQ-A-Z")
     )
   )
 )
